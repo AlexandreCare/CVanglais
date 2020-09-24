@@ -1,0 +1,31 @@
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+h5{font-size:20px;}
+.titrecolor1{color:rgb(107, 161, 37)}
+
+h1{font-size: 20px}
+.titrerouge{color:red}
+
+.Vcenter{
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.titre {
+	width:90px;
+    background-color:#5eb653;
+    float: left;
+}
+.réponce {
+	width:90px;
+    background-color:#9b4d8a;
+    float: right;
+}
