@@ -1,0 +1,26 @@
+.image{
+	width:50px;
+}
+.imaget2{
+	width:80px;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+.Vcenter{
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+body {
+	background-image: url("https://vignette.wikia.nocookie.net/hazbinhotel/images/e/ed/I.M.P._logo.png/revision/latest?cb=20191112081352");
+	background-size: cover;
+	margin : 0;
+}
