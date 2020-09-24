@@ -1,0 +1,22 @@
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+.image {
+	width:50px;
+}
+.imaget2{
+	width:80px;
+}
+body {
+    background-image: url("https://pm1.narvii.com/6928/46faecbedbf9f9d0664f2acd568fbf46d273144br1-1280-720v2_hq.jpg");
+    background-size: cover;
+	margin : 0;
+	width: 100vw;
+	height: 100vh;
+}

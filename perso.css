@@ -1,0 +1,26 @@
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+.Vcenter{
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.image{
+	width:50px;
+}
+.imaget2{
+	width:80px;
+}
+body {
+	background-image: url("https://66.media.tumblr.com/8e27f22be78a89958402744b0a22ef2c/tumblr_pfjhr4Uflu1ulvexz_1280.png");
+	background-size: cover;
+	margin : 0;
+}
