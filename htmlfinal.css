@@ -28,8 +28,6 @@ h1{font-size:20px;}
 	background-color:#eb2b1e;
 }
 body {
-	background-image: url("https://avante.biz/wp-content/uploads/Hazbin-Hotel-wallpapers/Hazbin-Hotel-wallpapers98.jpg");
-	background-size: cover;
 	margin : 0;
 	width: 100vw;
 	height: 100vh;
@@ -53,35 +51,35 @@ body {
 
 .menu > a > div {
 	height: 100%;
+
 }
 
 .boss1 {
 	background-image: url("https://static.tvmaze.com/uploads/images/original_untouched/230/576988.jpg");
-	background-position: center;
 	background-position-x: 370px;
 }
 
 .boss2 {
 	background-image: url("https://media.senscritique.com/media/000018892332/source_big/Hazbin_Hotel.jpg");
-	background-position: center;
-	background-position-x: 370px;
+	background-position-x: 495px;
+	background-position-y: -154px;
 }
 
 .boss3 {
 	background-image: url("https://vignette.wikia.nocookie.net/youtube/images/e/eb/Vivziepop.jpeg/revision/latest?cb=20191209152930");
-	background-position: center;
-	background-position-x: 370px;
+	background-position-x: 415px;
+	background-position-y: -24px;
 }
 
 .boss4 {
 	background-image: url("https://fr.calcuworld.com/wp-content/uploads/sites/5/2019/01/nombre-feuilles-cv.jpg");
-	background-position: center;
-	background-position-x: 370px;
+	background-position-x: 836px;
+	background-size: cover;
 }
 
 .boss1:hover, .boss2:hover, .boss3:hover, .boss4:hover {
 	transform: scale(1.25);
 	translate: transform;
-	transition-duration: 0.6s
+	transition-duration: 0.2s
 	;
 }

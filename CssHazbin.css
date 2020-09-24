@@ -1,0 +1,22 @@
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+.image {
+	width:50px;
+}
+.imaget2{
+	width:80px;
+}
+body {
+	background-image: url("https://66.media.tumblr.com/f0f576f6ca72f30bebcc482864df69b4/tumblr_pqjf83Hlf41uoklak_1280.png");
+	background-size: cover;
+	margin : 0;
+	width: 100vw;
+	height: 100vh;
+}
