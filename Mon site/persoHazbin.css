@@ -1,0 +1,42 @@
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+.Vcenter{
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding-left: 38%;
+}
+.image{
+	width:50px;
+}
+.imaget2{
+	width:80px;
+}
+body {
+	background-image: url("https://i.redd.it/ow0q8fjncpv31.png");
+	background-size: cover;
+	margin : 0;
+	background-repeat: no-repeat;
+}
+.bloc .bloc{
+    background: #707070;
+    height: 1800px;
+    opacity: 1;
+    top: 0;
+	width: 100%;
+	border-top: 0;
+	padding: 0 24px;
+	width: 850px;
+	border: 1px solid #333333;
+    margin: 0 auto;
+	position: relative;
+	z-index: 3;
+}
