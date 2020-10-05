@@ -26,6 +26,11 @@
 	padding-left: 38%;
 }
 
+.Ycenter{
+	text-align: center;
+	padding-left: 42%;
+}
+
 .description {
     height: 100%;
     width: 50%;
@@ -67,7 +72,6 @@
 
 body {
 	margin : 0;
-	background-image: url("https://cdn.discordapp.com/attachments/696562710132949040/762252576192200704/IMG_20200718_140115.jpg");
 	background-size: 100%;
 	background-repeat: cover;
 }
@@ -99,6 +103,6 @@ body {
 
 .bandeau2 {
 	width:100%;
-	height:45%;
+	height:48%;
 	background-color: #333333;
 }
