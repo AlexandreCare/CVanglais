@@ -84,3 +84,14 @@ body {
 	position: relative;
 	z-index: 3;
 }
+
+.bandeau {
+	width:100%;
+	height:20px;
+}
+
+.bandeau2 {
+	width:100%;
+	height:49px;
+	background-color:rgb(136, 13, 23);
+}
